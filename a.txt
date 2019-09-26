@@ -1,1 +1,3 @@
 se agrega linea en el repo 1 (con el repo2 ya creado) Futuros conflictos
+
+Modificando linea 3 desde repositorio 1 (con repositorio 2 ya clonado)
